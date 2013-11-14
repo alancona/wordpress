@@ -1,0 +1,15 @@
+/*
+ Theme Name:     zAlive Child
+ Theme URI:      http://localhost/zalive-child/
+ Description:    zAlive Child Theme
+ Author:         Bertie Ancona
+ Author URI:     http://localhost
+ Template:       zalive
+ Version:        1.0.0
+*/
+
+@import url("../zalive/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.navbar .brand{background:#111;}
